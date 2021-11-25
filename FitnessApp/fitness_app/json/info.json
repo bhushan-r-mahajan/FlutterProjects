@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Glutes",
+        "image": "assets/images/ex1.png"
+    },
+    {
+        "title": "Abs",
+        "image": "assets/images/ex2.png"
+    },
+    {
+        "title": "Legs",
+        "image": "assets/images/ex3.png"
+    },
+    {
+        "title": "Arms",
+        "image": "assets/images/ex4.png"
+    }
+]

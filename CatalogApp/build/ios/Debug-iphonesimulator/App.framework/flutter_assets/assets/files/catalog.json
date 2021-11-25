@@ -1,0 +1,53 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 13 Pro Max",
+            "description": "Apple iPhone 13th Generation Pro Max varient",
+            "price": 1299,
+            "image": "https://media.wired.com/photos/6149204955f7b3aea723343d/master/pass/Gear-Review-Apple_iPhone-13-Pro_Colors_09142021.jpg"
+        },
+        {
+            "id": 2,
+            "name": "iPhone 13 Mini",
+            "description": "Apple iPhone 13th Generation Mini varient",
+            "price": 699,
+            "image": "https://cdn.myimaginestore.com/media/catalog/product/cache/7/image/602f0fa2c1f0d1ba5e241f914e856ff9/i/p/iphone-13-mini-select-2021.jpg"
+        },
+        {
+            "id": 3,
+            "name": "iPhone 13 Pro",
+            "description": "Apple iPhone 13th Generation Pro varient",
+            "price": 999,
+            "image": "https://www.notebookcheck.net/uploads/tx_nbc2/4_to_3_Teaser_Apple_iPhone_13_Pro.jpg"
+        },
+        {
+            "id": 4,
+            "name": "iPhone 13",
+            "description": "Apple iPhone 13th Generation",
+            "price": 799,
+            "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607adf7dcbfabf4faaa69505%2FiPhone-13--iPhone-13-Pro--iPhone-13-Pro-Max--iPhone-13-Mini--iPhone-13-release-%2F960x0.jpg%3Ffit%3Dscale"
+        },
+        {
+            "id": 5,
+            "name": "Google Pixel",
+            "description": "Google pixle 6th Generation",
+            "price": 999,
+            "image": "https://static.toiimg.com/photo/imgsize-576216,msid-84982706/84982706.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Google Pixel Pro",
+            "description": "Google pixle 6th Generation Pro varient",
+            "price": 1299,
+            "image": "https://www.cnet.com/a/img/NO8rHUucPVo0j_UgVAKykrYc3RE=/769x565:3022x2025/940x0/2021/08/02/a718e12e-9c13-4d15-89f1-2d119c5e95ee/pixel-6-group-image-orange-yellow.jpg"
+        },
+        {
+            "id": 7,
+            "name": "iPhone 13 Pro",
+            "description": "Apple iPhone 13th Generation",
+            "price": 999,
+            "image": "https://www.notebookcheck.net/uploads/tx_nbc2/4_to_3_Teaser_Apple_iPhone_13_Pro.jpg"
+        }
+    ]
+}
